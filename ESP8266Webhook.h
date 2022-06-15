@@ -22,10 +22,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
 
-#ifndef ESP8266Webhook_h
-  #define ESP8266Webhook_h
+#ifndef ESP32Webhook_h
+  #define ESP32Webhook_h
   #include "Arduino.h"
-  #include <ESP8266HTTPClient.h>
+  #include <HTTPClient.h>
   #include <WiFiClient.h>
 
   class Webhook
