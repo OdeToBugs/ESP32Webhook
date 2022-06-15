@@ -18,7 +18,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
 
-#include "ESP8266Webhook.h"
+#include "ESP32Webhook.h"
 
 Webhook::Webhook(String api_key, String event_name){
   _api_key = api_key;
