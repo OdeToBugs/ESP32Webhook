@@ -1,5 +1,5 @@
-#include <ESP8266Webhook.h>
-#include <ESP8266WiFi.h>
+#include <ESP32Webhook.h>
+#include <WiFi.h>
 
 #define _SSID "ENTER HERE"      // Your WiFi SSID
 #define _PASSWORD "ENTER HERE"  // Your WiFi Password
